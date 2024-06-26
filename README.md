@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KavishaJayasekera
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning at Matara
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on all of them
 - 😄 Pronouns: Kavi
 - ⚡ Fun fact: Coding, Reading Books, Listening a songs, Traveling...
 
