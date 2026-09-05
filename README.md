@@ -1,69 +1,93 @@
-# Kavisha Jayasekera
+<div align="center">
 
-**Aspiring Software Engineer** based in Colombo, Sri Lanka
+# Hi there, I'm Kavisha 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KavishaJayasekera)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Enthusiast+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8C%B1;Book+Lover+%F0%9F%93%9A;Based+in+Colombo%2C+Sri+Lanka" alt="Typing SVG" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KavishaJayasekera)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
-## About
+</div>
 
-I'm a software engineering student currently based in Colombo, with an interest in building practical, well-structured applications. I enjoy learning new technologies and collaborating on projects that solve real problems.
+<br/>
 
-- **Currently learning:** [add your current focus, e.g. Data Structures & Algorithms]
-- **Currently working on:** [add a project or course]
-- **Looking to collaborate on:** [add area of interest]
-- **Open to:** internship / junior developer opportunities
-- **Pronouns:** She/Her
+## 👀 About Me
 
----
+- 🔭 Interested in **Software Engineering**
+- 🌱 Currently learning **[add your current focus]**
+- 💞️ Looking to collaborate on **cool, meaningful projects**
+- 🤝 Open to **internship / junior developer opportunities**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I love **coding, reading books, listening to music, and traveling**
 
-## Skills
+<br/>
 
-**Languages**
-`Java` `Python` `JavaScript` `HTML` `CSS` `SQL`
+## 🛠️ Tech Stack
 
-**Tools & Technologies**
-`Git` `GitHub` `VS Code` `MySQL` `React` `Node.js`
+<div align="center">
 
-*(Edit the lists above to reflect what you actually use.)*
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode,figma&theme=dark" />
 
----
+</div>
 
-## Featured Projects
+> Edit the icon list above to match what you actually use — full list of available icons at [skillicons.dev](https://skillicons.dev).
 
-| Project | Description | Tech |
-|---|---|---|
-| [Project Name](https://github.com/KavishaJayasekera/REPO_NAME_1) | One-line description of what it does | Java, MySQL |
-| [Project Name](https://github.com/KavishaJayasekera/REPO_NAME_2) | One-line description of what it does | Python |
-| [Project Name](https://github.com/KavishaJayasekera/REPO_NAME_3) | One-line description of what it does | JavaScript, HTML/CSS |
+<br/>
 
+## 📌 Featured Projects
 
+<div align="center">
 
----
+<a href="https://github.com/KavishaJayasekera/REPO_NAME_1">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KavishaJayasekera&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/KavishaJayasekera/REPO_NAME_2">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KavishaJayasekera&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
 
-## GitHub Stats
+</div>
 
-![Kavisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavishaJayasekera&show_icons=true&theme=default&hide_border=true&hide_title=true)
+> Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repo names, or pin repos directly from your GitHub profile page.
 
+<br/>
 
----
+## 📊 GitHub Stats
 
-## Background
+<div align="center">
 
-- Coding
-- Reading
-- Music
-- Traveling
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KavishaJayasekera&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishaJayasekera&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## Contact
+<br/>
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/KavishaJayasekera) or [email](mailto:youremail@example.com) — I'm happy to connect and discuss opportunities or projects.
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KavishaJayasekera&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+Feel free to reach out if you want to collaborate or just say hi! ✨
+
+<img src="https://komarev.com/ghpvc/?username=KavishaJayasekera&style=for-the-badge&color=blueviolet" alt="profile views" />
+
+</div>
 
 <!---
 KavishaJayasekera/KavishaJayasekera is a special repository because its README.md (this file) appears on your GitHub profile.
+
+NOTE: These widgets (typing animation, stats cards, trophies, skill icons) are generated by live external services.
+They won't render in most chat previews or code editors — they only load correctly once this file is committed
+and viewed on the actual GitHub profile page. If a widget still doesn't show up there after a few seconds,
+it usually means that specific free service is temporarily down — you can safely delete that section.
 --->
