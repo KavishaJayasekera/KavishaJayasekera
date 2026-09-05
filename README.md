@@ -57,7 +57,7 @@ fun_fact: "I love coding, reading books, listening to songs, and traveling ✈�
 - 🏅 **[Certification Name]** — [Issuing Organization], [Year]
 - 🏅 **[Certification Name]** — [Issuing Organization], [Year]
 
-> Add links to the certificate/credential if you have them.
+
 
 <br/>
 
@@ -94,7 +94,6 @@ fun_fact: "I love coding, reading books, listening to songs, and traveling ✈�
 
 </div>
 
-> ✏️ Edit these to match the languages/frameworks you actually use — remove or add badges as needed. skillicons.dev has icons for almost everything.
 
 <br/>
 
@@ -118,7 +117,7 @@ fun_fact: "I love coding, reading books, listening to songs, and traveling ✈�
 
 </div>
 
-> Replace `REPO_NAME_1`–`REPO_NAME_4` with actual repo names. You can also pin repos directly from your GitHub profile page (Customize your pins).
+
 
 <br/>
 
@@ -157,7 +156,6 @@ fun_fact: "I love coding, reading books, listening to songs, and traveling ✈�
 
 </div>
 
-> This animated snake needs a one-time GitHub Actions setup — see the note at the bottom of this README for the workflow file.
 
 <br/>
 
