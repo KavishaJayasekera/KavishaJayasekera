@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-> Edit this section to match the languages/frameworks you actually use — remove or add badges as needed.
+
 
 ---
 
@@ -49,7 +49,7 @@
 - 📚 Studying **[add a course/topic you're learning]**
 - 🤝 Open to **internship / junior dev opportunities**
 
-> Edit this list with what you're actually focused on right now.
+
 
 ---
 
